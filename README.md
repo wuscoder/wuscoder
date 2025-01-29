@@ -1,74 +1,84 @@
-# 👋 ¡Hola! Soy David
+# 👋 ¡Hola, Soy David!
 
-## 🚀 Líder Técnico .NET | Arquitectura de Software | DevOps | Cloud | Seguridad  
+## 🚀 Backend | API REST | Arquitectura de Software
 
-Actualmente soy **Líder Técnico .NET en una empresa de retail reconocida**, donde diseño e implemento **arquitecturas escalables y seguras** para aplicaciones de alto tráfico. Mi experiencia incluye la **modernización de sistemas legacy a microservicios y microfrontends**, optimización de rendimiento con **Redis Cache**, y **monitoreo con Datadog y Grafana**.  
+Soy **Líder Técnico .NET en una empresa de retail reconocida**, con más de una década de experiencia en **desarrollo backend, diseño de API REST y arquitectura de software escalable**. He trabajado en la **modernización de sistemas legacy**, implementación de **microservicios**, documentación técnica y optimización de aplicaciones de alto tráfico.  
 
-💡 **Estoy en búsqueda de oportunidades como Arquitecto de Soluciones**, donde pueda aplicar mis conocimientos en **backend, DevOps, cloud computing y seguridad** para diseñar sistemas **eficientes, escalables y resilientes**.  
+💡 **Estoy en búsqueda de oportunidades como Arquitecto de Soluciones**, donde pueda aplicar mis conocimientos en **diseño de software, patrones arquitectónicos, documentación técnica y construcción de APIs robustas y eficientes**.  
 
 ---
 
 ## 🛠 **Experiencia Clave**
-✔ **.NET C# como stack principal**, desarrollando en .NET Framework, ASP.NET Core Blazor y Entity Framework.  
-✔ **Backend con bases sólidas en Node.js, Java, Python, Go, PHP y JavaScript**.  
-✔ **Transformación de arquitecturas legacy a microservicios y microfrontends**.  
-✔ **Optimización de rendimiento con Redis Cache y SQL Server**.  
-✔ **Automatización y CI/CD con Docker, Kubernetes, Terraform, GitLab CI/CD y GitHub Actions**.  
-✔ **Cloud computing en AWS, Azure y GCP**.  
-✔ **Seguridad en la nube, OWASP Top 10, OAuth2, Zero Trust y Hardening de Kubernetes**.  
-✔ **Liderazgo técnico en equipos de desarrollo y revisión de código bajo buenas prácticas**.  
+✔ **Backend con .NET C# como stack principal**, utilizando ASP.NET Core, Blazor y Entity Framework.  
+✔ **Diseño y desarrollo de API REST** eficientes, siguiendo buenas prácticas y estándares como OpenAPI.  
+✔ **Arquitectura de software escalable**, implementando microservicios, CQRS y DDD.  
+✔ **Documentación técnica con UML**, modelado de datos, diagramas de arquitectura y casos de uso.  
+✔ **Redacción de documentación API** con OpenAPI, Swagger y Postman.  
+✔ **Optimización de rendimiento** con Redis Cache y SQL Server.  
+✔ **Integración con bases de datos SQL y NoSQL**, incluyendo SQL Server, PostgreSQL y MongoDB.  
+✔ **Implementación de autenticación y seguridad en APIs** con OAuth2, JWT y Identity Server.  
+✔ **Liderazgo técnico, code reviews y mejora de prácticas de desarrollo**.  
 
 ---
 
 ## 📂 **Mis Repositorios**
 🔹 **Backend:** [Proyectos Backend](https://github.com/DBWSA?tab=repositories&q=backend&type=&language=)  
-🔹 **DevOps:** [Infraestructura y CI/CD](https://github.com/DBWSA?tab=repositories&q=devops&type=&language=)  
-🔹 **Cloud:** [Arquitecturas en la Nube](https://github.com/DBWSA?tab=repositories&q=cloud&type=&language=)  
-🔹 **Security:** [Ciberseguridad y OWASP](https://github.com/DBWSA?tab=repositories&q=security&type=&language=)  
-🔹 **AI/ML:** [Machine Learning e Inteligencia Artificial](https://github.com/DBWSA?tab=repositories&q=ai-ml&type=&language=)  
-🔹 **Big Data:** [Procesamiento de Datos](https://github.com/DBWSA?tab=repositories&q=data&type=&language=)  
 🔹 **Arquitectura:** [Patrones y Diseño de Software](https://github.com/DBWSA?tab=repositories&q=architecture&type=&language=)  
 🔹 **Automatización:** [Scripts y Automatización](https://github.com/DBWSA?tab=repositories&q=automation&type=&language=)  
+🔹 **Documentación Técnica:** [Casos de Uso y UML](https://github.com/DBWSA?tab=repositories&q=documentation&type=&language=)  
+🔹 **Experimentos:** [Proyectos Experimentales](https://github.com/DBWSA?tab=repositories&q=experiments&type=&language=)  
+🔹 **Recursos:** [Cheatsheets y Guías](https://github.com/DBWSA?tab=repositories&q=resources&type=&language=)  
 
 ---
 
 ## 🏆 **Certificaciones y Formación**
-📌 **Software Project Leader Professional (SPLPC™) | Certiprof (2024)**  
 📌 **Scaled Scrum Professional Certification (SSPC™) | Certiprof (2025)**  
+📌 **Software Project Leader Professional (SPLPC™) | Certiprof (2024)**  
 📌 **Scrum Master Professional Certificate (SMPC®) | Certiprof (2023)**  
-📌 **DevOps Engineer Bootcamp | Manhattan University, Educación IT (2024)**  
-📌 **DevOps Engineer | Digital House (2024)**  
+📌 **Kanban Essentials Professional Certificate (KEPC) | Certiprof (2023)**  
+📌 **DevOps Engineer Bootcamp | Educación IT (2024)**  
 📌 **Backend en JAVA | Digital House (2024)**  
 
 ---
 
 ## 🛠 **Stack Tecnológico**
-### **🟢 Stack Principal**  
-💻 **Backend:** .NET (C#), ASP.NET Core Blazor, Entity Framework, SQL Server  
+### **🟢 Backend y API REST**  
+💻 **Tecnologías principales:**  
+✔ **.NET (C#)** - ASP.NET Core, Entity Framework  
+✔ **Node.js, Java, Python, Go, PHP** *(bases sólidas y experiencia en integración de APIs)*  
+✔ **Diseño de APIs RESTful** con OpenAPI, Swagger y GraphQL  
+✔ **Seguridad en APIs** - OAuth2, JWT, Identity Server  
+✔ **Bases de Datos:** SQL Server, PostgreSQL, MongoDB, Redis  
 
-### **🟡 Experiencia Sólida en**  
-🛠 **Backend:** Node.js, Java, Python, Go, PHP, JavaScript  
-☁ **Cloud:** AWS (EC2, Lambda, S3), Azure, GCP  
-🛡 **Seguridad:** OWASP Top 10, JWT, OAuth2, Zero Trust, Kubernetes Hardening  
-📊 **Bases de Datos:** SQL Server, PostgreSQL, MongoDB, Redis  
-🔗 **Integraciones:** RabbitMQ, Kafka, WebSockets, API REST & GraphQL  
-🛠 **DevOps:** Docker, Kubernetes, Terraform, GitLab CI/CD, GitHub Actions  
+### **🟡 Arquitectura y Buenas Prácticas**  
+📌 **Patrones de arquitectura:** Microservicios, CQRS, DDD, Event-Driven  
+📌 **Optimización de rendimiento:** Redis Cache, Indexación SQL, Caching avanzado  
+📌 **Infraestructura y despliegue:** Docker, Kubernetes, Terraform  
+📌 **Observabilidad:** Logging estructurado, monitoreo con Datadog y Grafana  
+
+### **📖 Documentación y Modelado**  
+📌 **Modelado de software con UML** - Casos de uso, diagramas de clases y secuencia.  
+📌 **Documentación de APIs** - OpenAPI, Swagger, Postman, Redocly.  
+📌 **Especificación de requisitos técnicos y funcionales** - Historias de usuario, criterios de aceptación.  
+📌 **Diagramas de arquitectura** - Microservicios, capas de software, infraestructura cloud.  
+📌 **Control de versiones en documentación** - Markdown, Git, Confluence, Notion.  
 
 ---
 
 ## 📈 **Logros Destacados**
-✔ **Gestión y optimización de plataformas en eventos de alto tráfico (Hot Sale, Black Friday, CyberMonday).**  
-✔ **Modernización de sistemas legacy a arquitecturas basadas en microservicios y microfrontends.**  
-✔ **Mejora del rendimiento de aplicaciones con Redis Cache y optimización de consultas SQL Server.**  
-✔ **Implementación de monitoreo con Datadog y Grafana para mejorar la observabilidad de sistemas.**  
-✔ **Liderazgo y mentoring en equipos de desarrollo, promoviendo buenas prácticas de codificación y revisión de código.**  
+✔ **Desarrollo de APIs REST robustas y escalables para sistemas de alto tráfico**.  
+✔ **Modernización de sistemas legacy a arquitecturas basadas en microservicios**.  
+✔ **Documentación completa de APIs y arquitecturas para mejorar la mantenibilidad**.  
+✔ **Modelado UML para definir mejor los flujos de negocio y estructura del sistema**.  
+✔ **Mejora del rendimiento de consultas SQL y reducción de tiempos de respuesta**.  
+✔ **Implementación de autenticación segura en APIs con OAuth2 y JWT**.  
+✔ **Estandarización de patrones de arquitectura en proyectos backend**.  
 
 ---
 
 ## 📫 **Conéctate conmigo**
 📌 **GitHub:** [DBWSA](https://github.com/DBWSA/)  
 📌 **LinkedIn:** [linkedin.com/in/dbw-tech-lead](https://linkedin.com/in/dbw-tech-lead)  
-📌 **Email:** 
 
 💡 *Siempre abierto a nuevas oportunidades y colaboración en proyectos innovadores.*  
 
