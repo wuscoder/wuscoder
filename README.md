@@ -36,7 +36,8 @@ Soy **Líder Técnico .NET en una empresa de retail reconocida**, con más de un
 📌 **Software Project Leader Professional (SPLPC™) | Certiprof (2024)**  
 📌 **Scrum Master Professional Certificate (SMPC®) | Certiprof (2023)**  
 📌 **Kanban Essentials Professional Certificate (KEPC) | Certiprof (2023)**  
-📌 **DevOps Engineer Bootcamp | Educación IT (2024)**  
+📌 **DevOps Engineer Bootcamp | Manhattan University, Educación IT (2024)**  
+📌 **DevOps Engineer | Digital House (2024)**  
 📌 **Backend en JAVA | Digital House (2024)**  
 
 ---
