@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy David (DBWSA)  
+# 👋 ¡Hola! Soy David
 
 ## 🚀 Líder Técnico .NET | Arquitectura de Software | DevOps | Cloud | Seguridad  
 
