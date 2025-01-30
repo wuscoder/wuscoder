@@ -1,12 +1,3 @@
-# 👋 ¡Hola, Soy David!
-
-## 🚀 Backend | API REST | Arquitectura de Software
-
-Soy **Líder Técnico .NET en una empresa de retail reconocida**, con más de una década de experiencia en **desarrollo backend, diseño de API REST y arquitectura de software escalable**. He trabajado en la **modernización de sistemas legacy**, implementación de **microservicios**, documentación técnica y optimización de aplicaciones de alto tráfico.  
-
-💡 **Estoy en búsqueda de oportunidades como Arquitecto de Soluciones**, donde pueda aplicar mis conocimientos en **diseño de software, patrones arquitectónicos, documentación técnica y construcción de APIs robustas y eficientes**.  
-
----
 
 ## 🛠 **Experiencia Clave**
 ✔ **Backend con .NET C# como stack principal**, utilizando ASP.NET Core, Blazor y Entity Framework.  
@@ -78,8 +69,8 @@ Soy **Líder Técnico .NET en una empresa de retail reconocida**, con más de un
 ---
 
 ## 📫 **Conéctate conmigo**
-📌 **GitHub:** [DBWSA](https://github.com/DBWSA/)  
-📌 **LinkedIn:** [linkedin.com/in/dbw-tech-lead](https://linkedin.com/in/dbw-tech-lead)  
+📌 **GitHub:** [wuscoder](https://github.com/wuscoder/)  
+📌 **LinkedIn:** [linkedin.com/in/wuscoder](https://linkedin.com/in/wuscoder)  
 
 💡 *Siempre abierto a nuevas oportunidades y colaboración en proyectos innovadores.*  
 
